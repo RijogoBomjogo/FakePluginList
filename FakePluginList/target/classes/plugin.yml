@@ -1,0 +1,6 @@
+name: FakePluginList
+version: 1.0-SNAPSHOT
+main: tr.donsuzturk.fakepluginlist.Main
+api-version: 1.17
+authors: [ DonsuzTurk ]
+description: Eklenti listenizi farklı şekilde görüntülemenizi sağlar.
